@@ -1,0 +1,32 @@
+html {
+  -webkit-font-smoothing: 'never';
+}
+
+body {
+  font-family: 'Avenir';
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('./fonts/Avenir.ttc');
+  
+}
+
+@font-face {
+  font-family: 'Butler-Black';
+  src: url('./fonts/Butler_Black.otf');
+}
+
+h1, h2, h3 {
+  font-family: 'Butler-Black';
+  color: rgb(217, 78, 79);
+  margin-top:5%;
+}
+
+p {
+  font-family: 'Avenir';
+}
+
+.guide {
+  background-color: rgb(251, 243, 127)
+}
