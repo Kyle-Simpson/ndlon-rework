@@ -1,3 +1,43 @@
+This project is a split-off from [NDLON-TEST](https://github.com/Kyle-Simpson/ndlon-test).  See old repo for prior work.
+
+---
+# __National Day Laborer Organization Network (NDLON)__
+## __Inglés para la Jardineria__  
+
+### Purpose
+Recreate "__Inglés para la Jardineria__ - Todo lo que usted necesita saber para hacer trabajos de jardinería" as an interactive website that guides users through Spanish-English translations with the aid of audio snippets and images.  
+
+### Codebase
+The web application is created using ReactJS (a Javascript framework built upon NodeJS) which combines the HTML, CSS, and Javascript languages to host and deploy web content.
+
+#### Folder & Code Structure
+The `src` folder contains all code used to build the website.  
+- `PlainCard.js` contains the class for audio/text elements that do not have an associated image (for content like "good morning" where there is audio but no associated image).
+- `ImgCard.js` contains the class for audio/text elements that do have an associated image (for content like "broom" where there is audio and an image associated).
+- `App.js` contains the utilization of both of the above classes to organize the content of the website.  
+- `serviceWorker.js` is automatically updated and does not need to be altered.
+- The `.css` files do not need to altered.  
+
+The `public` folder contains the non-code content that drive the website (i.e. the audio and images).  
+
+The `build` and `node_modules` folders are updated automatically and do not need to be altered.  
+
+The `package.json` and `package-lock.json` files do not need to be updated unless the website is moving to a new URL.
+
+#### Updating content
+Before content can be updated, you will need to clone this repository to your computer using the terminal (on Mac) or Git Bash (on Windows).  I always suggest placing the folder somewhere easy to locate (like your Desktop).  For help cloning the repository see the following link for reference: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository.  
+
+Once you have cloned the repository the only content that will need to be updated would be in the `App.js` file or added to the `public > audio/images` folders.  
+
+Once content has been updated, navigate back to the terminal/Git Bash, and path into the repository location (your Desktop folder or wherever you saved the files).  Type `git add .` to add all changes to your commit.  Type `git commit -m "Update files"`, and then type `git push`.  This saves your changes to GitHub but you will still need to re-publish the website changes.  To re-publish the website, type `npm run deploy` which will build and deploy the website to whichever URL is listed in the `package.json` file (which does not need to be updated unless the URL is being moved).
+
+
+### Project Contacts
+Emily Gaggia, Workforce Development Co-Coordinator - emily@ndlon.org  
+Kyle Simpson, Contract Website Developer - kyle3381@gmail.com
+
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
