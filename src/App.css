@@ -30,3 +30,12 @@ p {
 .guide {
   background-color: rgb(251, 243, 127)
 }
+
+
+
+@media only screen and (min-width:600px) {
+  body {
+    margin-left:10%;
+    margin-right:10%;
+  }
+}
