@@ -81,7 +81,7 @@ function App() {
 
       <div className="router">
         <Router>
-          <Route exact path="/" component={startOfWorkday} />
+          <Route exact path="/" component={startOfWorkday}/>
           <Route path="/toolsAndMaterials" component={toolsAndMaterials} />
           <Route path="/elementsOfGarden" component={elementsOfGarden} />
           <Route path="/questionsforEmployer" component={questionsForEmployer} />

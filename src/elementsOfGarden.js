@@ -10,6 +10,7 @@ export class elementsOfGarden extends Component {
             <div>
                 <h3>Elements of the Garden - <i>Elementos en un jardín</i></h3>
 
+                {/* If the screen size is > 600px */}
                 {size.matches &&
                 <div>
                     <Row>
@@ -90,6 +91,7 @@ export class elementsOfGarden extends Component {
                     </div>
                 }
 
+                {/* If the screen size is < 600px */}
                 {!size.matches &&
                     <div>
                         <ImgCard image='./images/flower.pdf' alt='flower' english='Flower' phonetic='[flauer]' spanish='flor' audio='./audio/mp3/3.c.mp3' />

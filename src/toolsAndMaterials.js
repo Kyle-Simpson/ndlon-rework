@@ -10,6 +10,8 @@ export class toolsAndMaterials extends Component {
         return (
             <div>
                 <h3>Gardening Tools & Materials - <i>Herramientas y materiales para jardinería</i></h3>
+
+                {/* If the screen size is > 600px */}
                 {size.matches &&
                     <div>
                         <Row>
@@ -152,6 +154,7 @@ export class toolsAndMaterials extends Component {
                     </div>
                 }
 
+                {/* If the screen size is < 600px */}
                 {!size.matches &&
                     <div>
                         <PlainCard english='Do you have ____________ ?' phonetic='[Du yu jav] ____________' spanish='¿Usted tiene ____________ ?'
