@@ -8,7 +8,7 @@ export class elementsOfGarden extends Component {
 
         return (
             <div>
-                <h3>Elements of the Garden - <i>Elementos en un jardín</i></h3>
+                <h3>Elementos en un jardín - <i>Elements of the Garden</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&

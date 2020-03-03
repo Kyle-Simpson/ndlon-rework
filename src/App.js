@@ -17,6 +17,7 @@ function App() {
     <div className="App">
 
       <div className='header'>
+        <img src="./images/header_img.png" alt="female gardener drawing"></img>
         <h1>
           ¡Hola!
       </h1>
@@ -62,17 +63,17 @@ function App() {
       </div>
 
       <div className="sections">
-        <h2>Sections</h2>
+        <h2>Secciones</h2>
         <Router>
-          <Link to="/">1. Start of the Workday</Link><br></br>
-          <Link to="/toolsAndMaterials">2. Gardening Tools & Materials</Link><br></br>
-          <Link to="/elementsOfGarden">3. Elements of the Garden</Link><br></br>
-          <Link to="/questionsforEmployer">4. Questions for the Employer</Link><br></br>
-          <Link to="/instructionsForGardener">5. Instructions for the Gardener</Link><br></br>
-          <Link to="/commonTasks">6. Common Gardening Tasks</Link><br></br>
-          <Link to="/healthAndSafety">7. Health and Safety</Link><br></br>
-          <Link to="/negotiatingPay">8. Negotiating Pay</Link><br></br>
-          <Link to="/clarificationQuestions">9. Questions for Clarification</Link><br></br>
+          <Link to="/">1. Inicio del día de trabajo {/*(Start of the Workday)*/}</Link><br></br>
+          <Link to="/toolsAndMaterials">2. Herramientas y materiales para jardinería {/*(Gardening Tools & Materials)*/}</Link><br></br>
+          <Link to="/elementsOfGarden">3. Elementos en un jardín {/*(Elements of the Garden)*/}</Link><br></br>
+          <Link to="/questionsforEmployer">4. Preguntas para el/la empleador/a {/*(Questions for the Employer)*/}</Link><br></br>
+          <Link to="/instructionsForGardener">5. Instrucciones para el/la jardinero/a {/*(Instructions for the Gardener)*/}</Link><br></br>
+          <Link to="/commonTasks">6. Tareas comunes de jardinería {/*(Common Gardening Tasks)*/}</Link><br></br>
+          <Link to="/healthAndSafety">7. Equipo de seguridad {/*(Health and Safety)*/}</Link><br></br>
+          <Link to="/negotiatingPay">8. Negociación de pago {/*(Negotiating Pay)*/}</Link><br></br>
+          <Link to="/clarificationQuestions">9. Preguntas para aclarar {/*(Questions for Clarification)*/}</Link><br></br>
         </Router>
       </div>
 

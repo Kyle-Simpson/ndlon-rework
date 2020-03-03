@@ -8,7 +8,7 @@ export class instructionsForGardener extends Component {
 
         return (
             <div>
-                <h3>Instructions for the Gardener - <i>Instrucciones para el/la jardinero/a</i></h3>
+                <h3>Instrucciones para el/la jardinero/a - <i>Instructions for the Gardener</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&

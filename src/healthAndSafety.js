@@ -9,7 +9,7 @@ export class healthAndSafety extends Component {
 
         return (
             <div>
-                <h3>Health and Safety - <i>Equipo de seguridad</i></h3>
+                <h3>Equipo de seguridad - <i>Health and Safety</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&

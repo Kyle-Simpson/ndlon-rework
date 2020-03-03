@@ -8,7 +8,7 @@ export class questionsForEmployer extends Component {
 
         return(
             <div>
-                <h3>Questions for the Employer - <i>Preguntas para el/la empleador/a</i></h3>
+                <h3>Preguntas para el/la empleador/a - <i>Questions for the Employer</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&

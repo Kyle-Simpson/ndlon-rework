@@ -8,7 +8,7 @@ export class commonTasks extends Component {
 
         return (
             <div>
-                <h3>Common Gardening Tasks - <i>Tareas comunes de jardinería</i></h3>
+                <h3>Tareas comunes de jardinería - <i>Common Gardening Tasks</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&

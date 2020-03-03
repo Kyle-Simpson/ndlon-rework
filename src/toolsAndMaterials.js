@@ -9,7 +9,7 @@ export class toolsAndMaterials extends Component {
 
         return (
             <div>
-                <h3>Gardening Tools & Materials - <i>Herramientas y materiales para jardinería</i></h3>
+                <h3>Herramientas y materiales para jardinería - <i>Gardening Tools & Materials</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&

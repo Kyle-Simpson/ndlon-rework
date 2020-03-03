@@ -8,7 +8,7 @@ export class negotiatingPay extends Component {
 
         return (
             <div>
-                <h3>Negotiating Pay - <i>Negociación de pago</i></h3>
+                <h3>Negociación de pago - <i>Negotiating Pay</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&

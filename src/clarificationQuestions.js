@@ -8,7 +8,7 @@ export class clarificationQuestions extends Component {
 
         return (
             <div>
-                <h3>Questions for Clarification - <i>Preguntas para aclarar</i></h3>
+                <h3>Preguntas para aclarar - <i>Questions for Clarification</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&

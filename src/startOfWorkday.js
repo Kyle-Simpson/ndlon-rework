@@ -9,7 +9,7 @@ export class startOfWorkday extends Component {
 
         return (
             <div>
-                <h3>Start of the Workday - <i>Inicio del día de trabajo</i></h3>
+                <h3>Inicio del día de trabajo - <i>Start of the Workday</i></h3>
 
                 {/* If the screen size is > 600px */}
                 {size.matches &&
