@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ndlon-rework/precache-manifest.0d78d9d979d7d52334faf5c5897f97d8.js"
+  "/ndlon-rework/precache-manifest.cbcd8e570ce98dfd20c65e26be89298a.js"
 );
 
 self.addEventListener('message', (event) => {
