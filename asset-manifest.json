@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ndlon-rework/static/css/main.3478a777.chunk.css",
-    "main.js": "/ndlon-rework/static/js/main.886a45c3.chunk.js",
-    "main.js.map": "/ndlon-rework/static/js/main.886a45c3.chunk.js.map",
+    "main.css": "/ndlon-rework/static/css/main.39a7f42f.chunk.css",
+    "main.js": "/ndlon-rework/static/js/main.582f8ad7.chunk.js",
+    "main.js.map": "/ndlon-rework/static/js/main.582f8ad7.chunk.js.map",
     "runtime-main.js": "/ndlon-rework/static/js/runtime-main.523bd13e.js",
     "runtime-main.js.map": "/ndlon-rework/static/js/runtime-main.523bd13e.js.map",
     "static/js/2.7842ff7e.chunk.js": "/ndlon-rework/static/js/2.7842ff7e.chunk.js",
     "static/js/2.7842ff7e.chunk.js.map": "/ndlon-rework/static/js/2.7842ff7e.chunk.js.map",
     "index.html": "/ndlon-rework/index.html",
-    "precache-manifest.8420d9d35a57b02a48ab26baeec02a3f.js": "/ndlon-rework/precache-manifest.8420d9d35a57b02a48ab26baeec02a3f.js",
+    "precache-manifest.e856b1d2a1fdf568d9023f84a526a0e9.js": "/ndlon-rework/precache-manifest.e856b1d2a1fdf568d9023f84a526a0e9.js",
     "service-worker.js": "/ndlon-rework/service-worker.js",
-    "static/css/main.3478a777.chunk.css.map": "/ndlon-rework/static/css/main.3478a777.chunk.css.map",
+    "static/css/main.39a7f42f.chunk.css.map": "/ndlon-rework/static/css/main.39a7f42f.chunk.css.map",
     "static/js/2.7842ff7e.chunk.js.LICENSE.txt": "/ndlon-rework/static/js/2.7842ff7e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ndlon-rework/static/media/Butler_Black.77977133.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.523bd13e.js",
     "static/js/2.7842ff7e.chunk.js",
-    "static/css/main.3478a777.chunk.css",
-    "static/js/main.886a45c3.chunk.js"
+    "static/css/main.39a7f42f.chunk.css",
+    "static/js/main.582f8ad7.chunk.js"
   ]
 }
