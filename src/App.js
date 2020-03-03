@@ -17,7 +17,7 @@ function App() {
     <div className="App">
 
       <div className='header'>
-        <img src="./images/header_img.png" alt="female gardener drawing"></img>
+        <img className = "header_img" src="./images/header_img.png" alt="female gardener drawing" height="250px"></img>
         <h1>
           ¡Hola!
       </h1>
