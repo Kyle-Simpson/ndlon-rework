@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ndlon-rework/static/css/main.285ceec6.chunk.css",
+    "main.css": "/ndlon-rework/static/css/main.c86ea38a.chunk.css",
     "main.js": "/ndlon-rework/static/js/main.70243278.chunk.js",
     "main.js.map": "/ndlon-rework/static/js/main.70243278.chunk.js.map",
     "runtime-main.js": "/ndlon-rework/static/js/runtime-main.523bd13e.js",
@@ -8,16 +8,16 @@
     "static/js/2.7842ff7e.chunk.js": "/ndlon-rework/static/js/2.7842ff7e.chunk.js",
     "static/js/2.7842ff7e.chunk.js.map": "/ndlon-rework/static/js/2.7842ff7e.chunk.js.map",
     "index.html": "/ndlon-rework/index.html",
-    "precache-manifest.515dfab82bb46349f3d82cd1fc54f5fe.js": "/ndlon-rework/precache-manifest.515dfab82bb46349f3d82cd1fc54f5fe.js",
+    "precache-manifest.0aaf7002749a72adfc9577685ae679de.js": "/ndlon-rework/precache-manifest.0aaf7002749a72adfc9577685ae679de.js",
     "service-worker.js": "/ndlon-rework/service-worker.js",
-    "static/css/main.285ceec6.chunk.css.map": "/ndlon-rework/static/css/main.285ceec6.chunk.css.map",
+    "static/css/main.c86ea38a.chunk.css.map": "/ndlon-rework/static/css/main.c86ea38a.chunk.css.map",
     "static/js/2.7842ff7e.chunk.js.LICENSE.txt": "/ndlon-rework/static/js/2.7842ff7e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ndlon-rework/static/media/Butler_Black.77977133.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.523bd13e.js",
     "static/js/2.7842ff7e.chunk.js",
-    "static/css/main.285ceec6.chunk.css",
+    "static/css/main.c86ea38a.chunk.css",
     "static/js/main.70243278.chunk.js"
   ]
 }
